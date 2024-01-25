@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Teras_Angkringan</string>
+    <string name="get">Angkringan, kuliner Indonesia harga terjangkau. Nasi kucing, sate, mie goreng, es campur, tahu isi, bakso goreng, gado-gado, nasi goreng kambing, es kelapa, teh poci.</string>
+    <string name="Get_Started">Get_Started</string>
+    <string name="Rinal_Ripai">Muhammad Rinal Rifai</string>
+    <string name="Rinal">rinalrfi1933@gmail.com</string>
+    <string name="heroes_name">Nama Angkringan</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Nasi Kucing Spesial</item>
+        <item>Sate Ayam Lezat</item>
+        <item>Mie Goreng Jawa</item>
+        <item>Es Campur Segar</item>
+        <item>Tahu Isi Crispy</item>
+        <item>Bakso Goreng Mantap</item>
+        <item>Gado-Gado Enak</item>
+        <item>Nasi Goreng Kambing</item>
+        <item>Es Kelapa Muda</item>
+        <item>Teh Poci Hangat</item>
+    </string-array>
+
+    <string-array name="data_description">
+    <item>
+        Tentang Nasi Kucing Spesial: Menu istimewa ini disajikan dengan nasi kecil yang pulen dan lauk-pauk lezat. Nasi Kucing Spesial cocok untuk menjadi camilan ringan atau pilihan makanan berat, menghadirkan kenikmatan tak tergantikan di setiap suapan.
+    </item>
+        <item>
+        Tentang Sate Ayam Lezat: Sate ayam yang lezat ini diolah dengan bumbu khas yang memberikan cita rasa menggugah selera. Setiap tusukan sate penuh dengan kelezatan, menjadikannya pilihan sempurna untuk memuaskan hasrat kuliner Anda.
+    </item>
+        <item>
+        Tentang Mie Goreng Jawa: Mie goreng khas Jawa dengan rempah tradisional yang membuatnya istimewa. Kelezatan rempah-rempah tersebut menyatu sempurna dengan mie, menciptakan pengalaman makan yang tak terlupakan. Mie Goreng Jawa, sebuah perjalanan rasa yang menggoda selera.
+    </item>
+        <item>
+        Tentang Es Campur Segar: Es campur yang menyegarkan dengan berbagai jenis buah segar, cincau lembut, dan sirup spesial. Setiap sendokannya memberikan sensasi kombinasi rasa yang unik dan menyegarkan tenggorokan Anda, sempurna untuk menikmati momen berhenti sejenak.
+    </item>
+        <item>
+        Tentang Tahu Isi Crispy: Tahu isi crispy, tahu yang digoreng dengan tepung krispi yang memberikan sensasi kelezatan dan kecrispyan di setiap gigitan. Pengalaman makan yang renyah dan lezat, cocok untuk dinikmati sebagai cemilan atau teman makan.
+    </item>
+        <item>
+        Tentang Bakso Goreng Mantap: Bakso goreng dengan cita rasa mantap, memberikan pengalaman makan yang memuaskan. Cocok sebagai teman makan atau cemilan, Bakso Goreng Mantap akan memanjakan lidah Anda dengan kelezatan uniknya.
+    </item>
+        <item>
+        Tentang Gado-Gado Enak: Gado-gado lezat dengan bumbu kacang yang khas, cocok untuk pencinta sayuran. Setiap gigitan memberikan harmoni rasa antara sayuran segar dan bumbu kacang yang lezat, menciptakan kepuasan tiada tara.
+    </item>
+        <item>
+        Tentang Nasi Goreng Kambing: Nasi goreng spesial dengan daging kambing yang nikmat. Aroma rempah khas nasi goreng dan kelezatan daging kambing menyatu dalam setiap suapan, menciptakan cita rasa yang luar biasa.
+    </item>
+        <item>
+        Tentang Es Kelapa Muda: Es kelapa muda yang segar, memberikan sensasi kelembutan dan kelezatan dari air kelapa muda yang alami. Cocok untuk melepaskan dahaga dan menyegarkan tubuh Anda, Es Kelapa Muda adalah pilihan sempurna untuk menikmati minuman es yang alami.
+    </item>
+        <item>
+        Tentang Teh Poci Hangat: Teh hangat yang disajikan dalam poci, memberikan sensasi tradisional dan klasik. Setiap tegukan teh membawa kenangan rasa yang mendalam, membawa Anda pada perjalanan melalui keharuman dan kehangatan teh yang otentik.
+    </item>
+    </string-array>
+
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/nasi_goreng_angkringan</item>
+        <item>@drawable/sate_ayam</item>
+        <item>@drawable/mie_goreng_jawa</item>
+        <item>@drawable/es_campur</item>
+        <item>@drawable/tahu_crispi</item>
+        <item>@drawable/baso_goreng</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/es_kelapa</item>
+        <item>@drawable/teh_poci</item>
+    </integer-array>
+
+</resources>
